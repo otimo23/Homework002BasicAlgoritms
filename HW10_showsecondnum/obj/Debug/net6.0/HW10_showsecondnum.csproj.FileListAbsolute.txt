@@ -1,0 +1,15 @@
+C:\Users\otimo\Documents\E\IT\С Sharp\Homework002Basic\HW10_showsecondnum\bin\Debug\net6.0\HW10_showsecondnum.exe
+C:\Users\otimo\Documents\E\IT\С Sharp\Homework002Basic\HW10_showsecondnum\bin\Debug\net6.0\HW10_showsecondnum.deps.json
+C:\Users\otimo\Documents\E\IT\С Sharp\Homework002Basic\HW10_showsecondnum\bin\Debug\net6.0\HW10_showsecondnum.runtimeconfig.json
+C:\Users\otimo\Documents\E\IT\С Sharp\Homework002Basic\HW10_showsecondnum\bin\Debug\net6.0\HW10_showsecondnum.dll
+C:\Users\otimo\Documents\E\IT\С Sharp\Homework002Basic\HW10_showsecondnum\bin\Debug\net6.0\HW10_showsecondnum.pdb
+C:\Users\otimo\Documents\E\IT\С Sharp\Homework002Basic\HW10_showsecondnum\obj\Debug\net6.0\HW10_showsecondnum.csproj.AssemblyReference.cache
+C:\Users\otimo\Documents\E\IT\С Sharp\Homework002Basic\HW10_showsecondnum\obj\Debug\net6.0\HW10_showsecondnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otimo\Documents\E\IT\С Sharp\Homework002Basic\HW10_showsecondnum\obj\Debug\net6.0\HW10_showsecondnum.AssemblyInfoInputs.cache
+C:\Users\otimo\Documents\E\IT\С Sharp\Homework002Basic\HW10_showsecondnum\obj\Debug\net6.0\HW10_showsecondnum.AssemblyInfo.cs
+C:\Users\otimo\Documents\E\IT\С Sharp\Homework002Basic\HW10_showsecondnum\obj\Debug\net6.0\HW10_showsecondnum.csproj.CoreCompileInputs.cache
+C:\Users\otimo\Documents\E\IT\С Sharp\Homework002Basic\HW10_showsecondnum\obj\Debug\net6.0\HW10_showsecondnum.dll
+C:\Users\otimo\Documents\E\IT\С Sharp\Homework002Basic\HW10_showsecondnum\obj\Debug\net6.0\refint\HW10_showsecondnum.dll
+C:\Users\otimo\Documents\E\IT\С Sharp\Homework002Basic\HW10_showsecondnum\obj\Debug\net6.0\HW10_showsecondnum.pdb
+C:\Users\otimo\Documents\E\IT\С Sharp\Homework002Basic\HW10_showsecondnum\obj\Debug\net6.0\HW10_showsecondnum.genruntimeconfig.cache
+C:\Users\otimo\Documents\E\IT\С Sharp\Homework002Basic\HW10_showsecondnum\obj\Debug\net6.0\ref\HW10_showsecondnum.dll
