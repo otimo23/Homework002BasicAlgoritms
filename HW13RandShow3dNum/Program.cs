@@ -1,15 +1,14 @@
-﻿Console.Clear();
-int num = new Random().Next(0, 1000);
-if(num > 99)
-{
-int thirdnumber = num % 10;
-Console.WriteLine($"Third number of {num} is {thirdnumber}");
+﻿
+Console.Clear();
+Console.WriteLine("Write a number: ");
+int num = int.Parse(Console.ReadLine()!);
+if(num < 100){
+    Console.WriteLine("No third number");
+}else{
+    while (num > 1000)
+    num = num / 10;
+    Console.WriteLine($"{num%10}"!);
 }
-else
-{
-Console.WriteLine($"Third number of {num} does not exists");
-}
-
 
 
 
